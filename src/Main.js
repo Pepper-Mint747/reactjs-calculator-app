@@ -10,6 +10,7 @@ const Main = () => {
     }
 
     function calculate() {
+        // eslint-disable-next-line no-eval
         let answer = eval(inputValue)
         setInputValue(answer)
     }
