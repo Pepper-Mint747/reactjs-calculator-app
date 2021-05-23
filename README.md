@@ -1,11 +1,11 @@
 ## React-Calculator Appliation
 
-#### [Live Site](https://frenetiks-to-do-list.netlify.app/)
+#### [Live Site]()
 
-![ToDo App](https://i.ibb.co/mb3wZhK/todoapp.png)
+![ToDo App]()
 
 ### Introduction
-This is the code repository for my first code TO-DO list application
+This is the code repository for a calculator app built using reactjs
 
 Setup:
 - run '''npm i && npm start''' for both client and server side to start the development server
